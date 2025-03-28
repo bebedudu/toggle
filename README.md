@@ -25,6 +25,7 @@ A system tray utility for Windows to quickly toggle Wi-Fi status with hotkey sup
    ```
 
 3. **Download**:
+   - <a href="https://github.com/bebedudu/toggle/releases/">Download program</a>
    - Clone repository or download `wifi.py`
    - Optional: Add `wifi_on.ico` and `wifi_off.ico` to the directory
 
